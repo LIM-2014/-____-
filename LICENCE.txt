@@ -1,5 +1,13 @@
 🛡 LICENSE
 
+# Attribution Notice
+
+Some images and design elements used in this project are sourced from MiriCanvas (https://www.miricanvas.com) as free resources.  
+The copyright and usage rights for these resources are governed by MiriCanvas's terms of service and may have restrictions on commercial use or redistribution.  
+
+The rest of the project's source code and content are distributed under the [https://github.com/LIM-2014/-____-/].
+
+
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 📎 View the full license:  
@@ -26,6 +34,14 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 
 🛡 라이선스
+
+# 출처 안내
+
+이 프로젝트에 사용된 일부 이미지 및 디자인 요소는 미리캔버스(https://www.miricanvas.com)의 무료 리소스를 활용하였습니다.  
+해당 리소스의 저작권 및 이용 조건은 미리캔버스 이용 약관에 따르며, 상업적 사용이나 재배포 등은 제한될 수 있습니다.  
+
+프로젝트의 나머지 소스 코드 및 컨텐츠는 [https://github.com/LIM-2014/-____-/]에 따라 배포됩니다.  
+
 
 이 저작물은 크리에이티브 커먼즈 저작자표시-비영리 4.0 국제 라이선스(CC BY-NC 4.0)에 따라 이용할 수 있습니다.
 
