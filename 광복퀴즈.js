@@ -1,25 +1,25 @@
 
 const problems = [
-  { img: "pictures/1-문제 1.png", answer: 1 },
-  { img: "pictures/2-문제 2.png", answer: 2 },
-  { img: "pictures/3-문제 3.png", answer: 2 },
-  { img: "pictures/4-문제 4.png", answer: 2 },
-  { img: "pictures/5-문제 5.png", answer: 1 },
-  { img: "pictures/6-문제 6.png", answer: 1 },
-  { img: "pictures/7-문제 7.png", answer: 2 },
-  { img: "pictures/8-문제 8.png", answer: 2 },
-  { img: "pictures/9-문제 9.png", answer: 1 },
-  { img: "pictures/10-문제 10.png", answer: 1 },
-  { img: "pictures/11-문제 11.png", answer: 3 },
-  { img: "pictures/12-문제 12.png", answer: 1 },
-  { img: "pictures/13-문제 13.png", answer: 2 },
-  { img: "pictures/14-문제 14.png", answer: 1 },
-  { img: "pictures/15-문제 15.png", answer: 4 },
-  { img: "pictures/16-문제 16.png", answer: 3 },
-  { img: "pictures/17-문제 17.png", answer: 1 },
-  { img: "pictures/18-문제 18.png", answer: 1 },
-  { img: "pictures/19-문제 19.png", answer: 2 },
-  { img: "pictures/20-문제 20.png", answer: 2 },
+  { img: "1-문제 1.png", answer: 1 },
+  { img: "2-문제 2.png", answer: 2 },
+  { img: "3-문제 3.png", answer: 2 },
+  { img: "4-문제 4.png", answer: 2 },
+  { img: "5-문제 5.png", answer: 1 },
+  { img: "6-문제 6.png", answer: 1 },
+  { img: "7-문제 7.png", answer: 2 },
+  { img: "8-문제 8.png", answer: 2 },
+  { img: "9-문제 9.png", answer: 1 },
+  { img: "10-문제 10.png", answer: 1 },
+  { img: "11-문제 11.png", answer: 3 },
+  { img: "12-문제 12.png", answer: 1 },
+  { img: "13-문제 13.png", answer: 2 },
+  { img: "14-문제 14.png", answer: 1 },
+  { img: "15-문제 15.png", answer: 4 },
+  { img: "16-문제 16.png", answer: 3 },
+  { img: "17-문제 17.png", answer: 1 },
+  { img: "18-문제 18.png", answer: 1 },
+  { img: "19-문제 19.png", answer: 2 },
+  { img: "20-문제 20.png", answer: 2 },
 ];
 
 let current = 0;
@@ -83,4 +83,5 @@ function showResult() {
      <div style="margin:18px 0;">총 점수: ${score} / 100</div>
      <div style="margin:18px 0;">등급: ${level}</div>
      <button class="answer-btn" onclick="location.reload()">제출</button>`;
+
 }
