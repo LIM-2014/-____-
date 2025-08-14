@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>광복퀴즈</title>
+  <link rel="stylesheet" href="광복퀴즈.css">
+  <link rel="icon" href="pictures/태극문양.png" type="image/png">
+</head>
+<body>
+  <a href="https://lim-2014.github.io/-/" target="_blank">
+    <img src="pictures/광복퀴즈 로고.png" alt="광복퀴즈 로고" class="logo">
+  </a>
+  <div id="countdown-area" style="text-align:center; margin-top:80px; font-size:1.3em;"></div>
+  <div class="quiz-area">
+    <img id="quiz-img" src="pictures/1-문제 1.png" alt="문제 이미지" class="quiz-img">
+    <input type="number" id="answerInput" placeholder="정답 숫자를 입력하세요" style="margin:18px 0; padding:10px; font-size:1.1em;">
+    <button class="answer-btn" onclick="checkAnswer()">제출</button>
+    <div id="result"></div>
+    <button class="answer-btn" id="nextBtn" style="display:none;" onclick="nextQuestion()">다음 문제</button>
+  </div>
+  <script src="광복퀴즈.js"></script>
+    <footer style="text-align:center; margin:40px 0 16px 0; color:#888; font-size:0.95em;">
+    &copy; 2025 임준서 all rights reserved
+  </footer>
+</body>
+</html>
